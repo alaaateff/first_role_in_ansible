@@ -1,0 +1,4 @@
+---
+# vars file for firstrole
+nginx_port: 8080
+html_body: "hello from 8080"
