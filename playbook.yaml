@@ -1,0 +1,5 @@
+- name: install nginx and handler to restart server
+  hosts: all
+  become: yes
+  roles:
+    - firstrole
